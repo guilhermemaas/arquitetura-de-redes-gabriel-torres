@@ -1,0 +1,22 @@
+Internet:
+    Rede mundial de computadores.
+    Rede pública de alcance global.
+    GAN - Global Area Network.
+    Cada rede que faz parte da infraestrutura da internet é chamada Sistema Autônomo.
+    Serviços:
+        web - wwww
+        e-mail
+        FTP - File Transfer Protocol
+        etc.
+
+Intranet:
+    Rede privada com funcionamento e serviços similares ao usados na internet.
+    De forma privada e não pública.
+     
+Extranet:
+    Acesso remoto a uma rede privada.
+    Opção 1:
+        Acesso a intranet através de uma página pública protegia por login e senha.
+    Opção 2:
+        VPN - Acesso a rede privada através de uma VPN(Virtual Private Network).
+        Conexão criptografada transitando na internet(rede pública).

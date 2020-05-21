@@ -1,0 +1,62 @@
+Nano Redes:
+    Comunicação a nível molecular ou frequência de rádios entre nano computadores.
+
+NFC:
+    Near Field Communication(Comunicação de campo próximo)
+    Distância de poucos centímetros, utilizando RFID - Comunicação por rádio frequência.
+    Cartões de transporte, fechaduras eletrônicas, cartões de crédito para pagamento, celulares, impressoras.
+
+BAN:
+    Body Area Network
+    Rede de área corporal.
+    Área de saúde, relógios, pulseiros peitorais. Área médica.
+
+PAN:
+    Personal Area Network(Rede de ára pessoal)
+
+WPAN:
+    Wireless Personal Area Newtork(Rede de área pessoal sem fio)
+    Bluetooth, caixa de som -> celuar
+
+NAN:
+    Near-me Area Network(Rede de área próximo a mim)
+    Uma rede entre dispositivos sem que esses estejam ligados a um rede central.
+
+LAN:
+    Local Area Network
+
+WAN:
+    Wireless Local Area Network
+
+HAN:
+    Home Area Network
+
+SAN:
+    Storage Area Network(Rede de armazenamento)
+    Vários discos rígidos ligados a um servidor.
+
+CAN:
+    Campus Area Network(Rede de campo ou rede de campus)
+    Um exemplo seria um Campus de uma universidade, várias LANs interligadas.
+
+MAN:
+    Metropolitan Area Network
+    Ligação de redes, LANs entre prédios e cidades.
+
+WAN:
+    Wide Area Network(Rede de longo alcance)
+    Rede interligada via Internet de longa distância.
+
+GAN:
+    Global Area Network
+    A internet propriamente dita.
+
+Nuvem:
+    Dados armazenados em um servidor externo, podendo estar em qualquer localização.
+
+IAN:
+    Internet Area Network
+    Pedaçõs da sua rede estão extendidos na Nuvem.
+
+Rede Interplanetária:
+    Rede entre planetas.

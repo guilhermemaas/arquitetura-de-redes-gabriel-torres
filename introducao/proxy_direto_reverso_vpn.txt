@@ -19,5 +19,7 @@ Proxy Reverso: -> Auxiliar Servidores
 VPN: -> Virtual Private Network
     Libar duas redes, ou um computador a uma rede, através da internet, utilizando criptografia.
     Proxy VPN - Se conectar ao servidor Proxy utilizando uma conexão privada criptografada. Usando VPN para mascarar a origem.
-    
 
+Serviços de terminal:
+    Telnet - Sem criptografia.
+    SSH - Com criptografia.

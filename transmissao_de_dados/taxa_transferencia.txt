@@ -1,0 +1,13 @@
+bit por segundo - bit/s
+bytes por segundo - b/s
+
+Round Trip Type, latência media entre ida e volta de um pacote.
+ping, por exemplo.
+
+QoS -> Quality of Service
+SLA - Service Level Agreement
+1) Desempenho. Largura de banda.
+2) Classes de tráfego.
+3) Confiabilidade.
+4) Disponibilidade.
+5) Segurança.

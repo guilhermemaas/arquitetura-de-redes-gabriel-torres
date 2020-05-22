@@ -1,0 +1,46 @@
+Pilha de protocolos:
+
+TCP/IP, HTTP, FTP, SMTP, etc
+
+OSI -> 7 camadas.
+Nem todos os protocolos utilizam essas sete camadas.
+
+---
+Aplicativo
+---                                   | Pilha TCP/IP
+7 - Aplicação.    ----
+6 - Apresantação.     | Alto nivel -> Aplicativo(5, 6, 7)
+5 - Sessão.       ----
+4 - Transporte. ------| Transporte -> Transporte(4)
+3 - Rede.          ---             -> Rede (3)
+2 - Link de dados.    | Baixo nivel -> Interface com a rede(1, 2)
+1 - Física.        ---
+---
+Meio - Cabo
+---
+
+Cada camada passa dados para camada abaixo.
+Cada camada de transmissor interage com a camada equivalente do receptor.
+
+7 - DNS, SMTP, HTTP, FTP
+6 - Conversao de um formato para outro, codificacao de dados. Compressao de dados e criptografia.
+SSL - Secure Socket Layer
+5 - Um ambiente onde se a conexao for interrompida, possa se continuar. Por exemplo a taxa de transferencia de um arquiv.
+Receptor e Transmissor armazenam o ponto onde pararam.
+4 - Responsavel por dividir os dados em Segmentos. Coloca cabecalho e rodape, numeracao. Para que o receptor possa validar os dados recebidos.
+TCP confirma recebimento. UDP nao confirma recebimento.
+No cabeçalho de segmento, consta o procolo.
+Trabalha com Checksum valida o segmento pra ver se o pacote esta batendo.
+3 - Divide os segmentos gerados pela camada de transporte em pequenos pacotes para serem transitados na rede.
+IP.
+Endereçamento lógico. Endereçamento IP.
+Endereçamento Físico. MAC Address
+ARP - Protocolo de resolução de endereço.
+RARP - Procolo de resolução de endereço reverso.
+IPsec - 
+ICMP - 
+Roteadores tabalham na camada 3.
+2 - Quadros, Celulas que vão ser encaminhados pro meio(Ethernet, Wifi)
+Switch.
+1 - Vai modular, codificar os itens desse quadro, celulas para o cabo.
+O receptor vai decodificar esse bits e mandar pra camada 2.

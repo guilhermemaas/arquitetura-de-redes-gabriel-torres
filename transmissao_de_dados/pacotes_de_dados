@@ -1,0 +1,15 @@
+A comunicação entre dispositivos na rede é feita através de pacotes. Para que esses não usem o recurso por completo durante a conexão.
+
+Pacote:
+    Cabeçalho. Endereço de envio, endereço destino.
+    Área de dados. Efetivamente os dados a serem transmitidos, por exemplo, um pedaço de um arquivo maior.
+    Rodapé. Não obrigatório.
+
+A estrutura do pacote vai depender da camada OSI e protocolo. 
+
+Confirmação de recebimento de pacotes:
+    A -> B
+    Resposta de B para A, controle > ACK Acknowledge
+    Só após a confirmação, o próximo pacote é enviado.
+    Existe a possibilidade de configurar um tempo de time out, para aguardo da confirmação ACK. Caso ultrapasse o temo o pacote é perdido e o dado é reinviado.
+    Pode ser enviado várias confirmações em um pacote de ACK.

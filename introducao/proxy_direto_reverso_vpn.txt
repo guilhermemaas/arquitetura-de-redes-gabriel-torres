@@ -1,0 +1,23 @@
+Proxy Direto: -> Auxiliar Clientes
+    1)
+    Intermediario entre as requisições.
+    Sistema de Cache. Acelar o carregamento de dados. 
+    Exemplo mais comum é para páginas de internet. 
+     
+    2)
+    Mascarar de onde está sendo requisitado determinado recurso. GeoIP.
+    Colocar como intermediário um servidor EUA para acessar um na Coréia do Sul, por exemplo.
+
+Proxy Reverso: -> Auxiliar Servidores
+    1)
+    Firewall. Filtrando os pacotes, encaminhando para determinado servidor.
+    Balanceamento de carga. endereco.com -> distribuindo entre x servidores.
+
+    2)
+    CDN - Content Delivery Network. CloudFare, Akamai, Amazon CloudFront
+
+VPN: -> Virtual Private Network
+    Libar duas redes, ou um computador a uma rede, através da internet, utilizando criptografia.
+    Proxy VPN - Se conectar ao servidor Proxy utilizando uma conexão privada criptografada. Usando VPN para mascarar a origem.
+    
+

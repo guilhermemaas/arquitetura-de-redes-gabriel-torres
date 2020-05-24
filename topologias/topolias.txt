@@ -1,0 +1,23 @@
+Totalmente Conectada:
+  Todos os computadores conectados uns aos outros.
+
+Malha:
+  Parecida com a totalmente conectada, nem todos os dispositivos conectados a todos os demais.
+
+Anel:
+  Computadores da rede conectados em formato de anel. Cada computador tendo dois cabos, um entrando e outro saindo.
+
+Barramento/Linear:
+  Usa Ethernet. Todos os computadores utilizam o mesmo fio. Utilizava Coaxial. Cada PC tinha um T, que ligava a entra e saida de dados ao cabo principal.
+
+Estrela:
+  Dispotivo concentrador para distibuir os pacotes.
+  Hum opera na camada 1 OSI. Simplesmente uma conexão física entre entre os dispositivos. TODOS as portas recebem os dados.
+  Vai ter o problema de contenção quando muito dado estiver sendo trafegado.
+  Já o Switch encaminha direto para a porta destino.
+
+Arvore ou Hierarquica:
+  É parecida com a topologia em estrela. Só que nesse caso existem diversos concentradores entre os computadores.
+
+Sem fio e Hibrida:
+  Dispositivo de ponto de acesso. Normalmente é uma rede mista de fio + wi-fi.

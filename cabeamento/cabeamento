@@ -1,0 +1,22 @@
+Coaxial:
+    Pode ser utilizado com Ethernet, mas está obselto.
+    Quem usa muito é TV a Cabo.
+    10 Mbits/s
+
+Par Trançado:
+    4 pares de fio, usado em redes locais ethenert.
+    Existem os com blindagem, e os sem(STP - Shielded Twisted Pair).
+    Conector 8P8C 0 RJ-45
+    Categoria 5, é o mais comum. Suporta conexões de até 2,5Gbit/s
+    90 Metros com folga, total 100.
+
+Fibra Óptica:
+    Monomodo(SMF):
+    MANs e WANs
+        Alcance - 1300m
+    Multimodo(MMF):
+        LANS e CANs
+        Alcance - 850m
+        100 Mbit/s até 2km
+        1 Gbit/s até 1km
+        10 Gbit/s até 500m

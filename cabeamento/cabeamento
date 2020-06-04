@@ -20,3 +20,17 @@ Fibra Óptica:
         100 Mbit/s até 2km
         1 Gbit/s até 1km
         10 Gbit/s até 500m
+    Conectores.
+    Exemplo de nomenclatura de fibra utilizada em rede local ethernet:
+        1000BASE-LX
+
+Cabeamento Estruturado:
+    1 - Entrance Facilities
+    2 - Equipment Room
+    3 - Backbone Cabling
+    4 - Telecommunications Rooms & Enclosure
+    5 - Horizontal Cabling
+    6 - Work Area
+
+Multiplexação por divisão de comprimento de onda (do inglês Wavelength-division Multiplex, ou WDM) , é um protocolo geralmente utilizado em redes de fibra ótica. Permite que numa rede se utilizem sinais óticos com diferentes tipos de frequência (diretamente relacionada com o comprimento de onda) no mesmo canal, através da multiplexagem.
+O WDM faz a alocação de canais que dividem em sub-canais utilizando o FDM (Frequency Division Multiplexing), TDM (Time Division Multiplexing) ou ambos. Atribui dois canais para cada estação. Um canal menor é fornecido para transmitir sinais à estação, conhecido por canal de controle e um canal maior que é fornecido para a estação transmitir os quadros de dados. 

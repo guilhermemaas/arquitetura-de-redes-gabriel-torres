@@ -1,0 +1,11 @@
+Bridge - Camada 2.
+
+DAS - Directrly- Attached Storage - Armazenamento conectado diretamente.
+- Requer uma máquina.
+NAS - Network-Attached Storage - Armazenamento conectado em rede.
+- Sistemas nas - Servidor ligado a rede compartilhando discos.
+- Mais lento e Autônomo.
+Stand Alone. 
+SAN - Storage Area Network.
+- Une várias unidades de armazamento atravpes de uma conexão dedicada.
+InfiniBand, iSCSI, Fibre Channel

@@ -9,3 +9,8 @@ Stand Alone.
 SAN - Storage Area Network.
 - Une várias unidades de armazamento atravpes de uma conexão dedicada.
 InfiniBand, iSCSI, Fibre Channel
+
+- Unidades de Armazenamento
+RAID 0 - Divisão dos dados, aumento do desempenho.
+RAID 1 - Espelhamento, aumento da confiabilidade, backup em tempo real.
+ 
